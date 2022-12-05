@@ -1,4 +1,4 @@
-# matric-vector-mult-benchmark
+# matrix-vector-mult-benchmark
 
 In this repository, I will provide results regarding the implementations of matrix multiplication, vector multiplication and also matrix vector multiplication.
 
