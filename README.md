@@ -4,19 +4,19 @@ In this repository, I will provide results regarding the implementations of matr
 
 # Run
 
-In order to run the program for main_test.c, you will need to do the following.command
+In order to run the program for main_test.c, you will need to do the following command:
 
 ```
 make
 ```
 
-After make has been typed, type the next command
+After make has been typed in the terminal, type the next command
 
 ```
 ./main.out
 ```
 
-the results would be as followed (In this case, the value of the matrix inside is being generated randomly from the value 0 to 15)
+the results would be as followed (In this case, the value of the matrix inside is being generated randomly from the value 0 to 15
 
 ```
 Matrix = [
